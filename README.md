@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman M. Rajeh</h1>
-<h3 align="center">Aspiring Software Developer & Student | Exploring open-source, Linux systems, and backend technologies.</h3>
+<h3 align="center">Software Engineering Student | Exploring open-source, Linux systems, and backend technologies.</h3>
 
 ---
 
